@@ -1,6 +1,6 @@
 === WOW WP Blocks ===
 
-Contributors: yourusername  
+Contributors: Knol Aust  
 Tags: animations, wow.js, animate.css, gutenberg, blocks  
 Requires at least: 5.0  
 Tested up to: 5.9  
